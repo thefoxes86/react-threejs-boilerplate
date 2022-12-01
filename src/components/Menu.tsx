@@ -33,7 +33,7 @@ const Menu: FC = () => {
             menuActive === 2 ? 'active' : ''
           } relative mt-2 cursor-pointer`}
         >
-          Offers
+          Offer
         </li>
       </ul>
     </div>
