@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gibson SG Guitar
+* source:	https://sketchfab.com/3d-models/gibson-sg-guitar-2007af7561fe46958d1f7e92dff8a40d
+* author:	Ryan_Nein (https://sketchfab.com/Ryan_Nein)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gibson SG Guitar" (https://sketchfab.com/3d-models/gibson-sg-guitar-2007af7561fe46958d1f7e92dff8a40d) by Ryan_Nein (https://sketchfab.com/Ryan_Nein) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
